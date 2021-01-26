@@ -1,0 +1,26 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width: 2%;
+}
+
+h1 {
+  color: grey;
+  font-family: verdana;
+}
+
+h2{
+  color: red;
+}
+
+h3 {
+  color:orange;
+  font-family: courier;
+}
