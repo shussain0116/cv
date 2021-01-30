@@ -1,18 +1,18 @@
 body {
-  background-color: powderblue;
+  background-color: black;
 }
 
 hr {
-  background-color: white;
+  background-color: black;
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: black;
   border-width: 2px;
   width: 2%;
 }
 
 h1 {
-  color: grey;
+  color: tomato;
   font-family: verdana;
 }
 
@@ -23,4 +23,20 @@ h2{
 h3 {
   color:orange;
   font-family: courier;
+}
+
+p {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+table {
+  color: white;
+}
+
+form {
+  color: white;
 }
